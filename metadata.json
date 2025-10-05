@@ -1,0 +1,7 @@
+{
+  "name": "PNC ChatBot",
+  "description": "A PNC web application that has newly implemented Chatbot features",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
